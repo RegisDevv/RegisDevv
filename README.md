@@ -29,6 +29,6 @@
   <a href="https://www.linkedin.com/in/regis-oliveira-b8656a187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://steamcommunity.com/id/spacergtx/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/regisdevv/regisdevv/blob/output/github-contribution-grid-snake.svg)
  
 </div>
