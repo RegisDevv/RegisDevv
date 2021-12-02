@@ -1,9 +1,10 @@
 ### Olá! seja bem vindo ao meu perfil 👋
 
-- 🔭 trabalho: no momento estou em busca de trabalho
+- 🔭 trabalho: No momento estou em busca de trabalho
 - 🌱 Estudanto: front-end
 - 🎯 Interesse: HTML e CSS, JavaScript, React, Angular, Vue.Js, jQuery, WordPress, Automação e Performance
-- 🎮 Games: no tempo livre eu jogo valorant, lol e wow
+- 🎮 Games: No tempo livre eu jogo valorant, lol e wow
+- 💭 Motivação: Se você quer chegar onde ninguém chegou, você tem que fazer oque a maioria nao faz.
 
 <div>
   <a href="https://github.com/RegisDevv">
