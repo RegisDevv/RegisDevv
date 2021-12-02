@@ -1,11 +1,14 @@
 ### Olá! seja bem vindo ao meu perfil 👋
 
-- 🔭 no momento estou em busca de trabalho
-- 🌱 Estudando JavaScript
+- 🔭 trabalho: no momento estou em busca de trabalho
+- 🌱 Estudanto: front-end
+- 🎯 Interesse: HTML e CSS, JavaScript, React, Angular, Frameworks MVC , jQuery, WordPress, Automação e Performance
+- 🎮 Games: no tempo livre eu jogo valorant, lol e wow
 
 <div>
   <a href="https://github.com/RegisDevv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=regisdevv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img align="right" alt="Regis-gif" src="https://c.tenor.com/F2q8AHyHa4oAAAAM/goku-songoku.gif">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=regisdevv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regisdevv&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
@@ -14,6 +17,7 @@
   <img align="center" alt="Regis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Regis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Regis-PS" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png">
+  
   
 </div>
   
