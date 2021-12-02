@@ -2,7 +2,7 @@
 
 - 🔭 trabalho: no momento estou em busca de trabalho
 - 🌱 Estudanto: front-end
-- 🎯 Interesse: HTML e CSS, JavaScript, React, Angular, Frameworks MVC , jQuery, WordPress, Automação e Performance
+- 🎯 Interesse: HTML e CSS, JavaScript, React, Angular, Vue.Js, jQuery, WordPress, Automação e Performance
 - 🎮 Games: no tempo livre eu jogo valorant, lol e wow
 
 <div>
