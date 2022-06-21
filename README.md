@@ -2,9 +2,9 @@
 
 - 🔭 trabalho: Freelancer @RegisDev
 - 🌱 Estudanto: Cursando FullStack,  HTML e CSS, JavaScript, React, Node JS, Jquery, Bootstrap, Electron, Redux, Socket JS.
-- 🎯 Interesse: Aprender e desenvolver novas ideias
-- 🎮 Games: No tempo livre eu jogo valorant, lol e wow
-- 💭 Motivação: Se você quer chegar onde ninguém chegou, você tem que fazer oque a maioria nao faz.
+- 🎯 Interesse: Aprender e desenvolver novas idéias
+- 🎮 Games: No tempo livre eu jogo valorant.
+- 💭 Motivação: Se você quer chegar onde ninguém chegou, você tem que fazer oque a maioria não faz.
 
 <div align="center">
   <a href="https://github.com/RegisDevv">
